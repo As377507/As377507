@@ -1,19 +1,91 @@
-### 👋 Hi, I'm Akash Sen
+<h1 align="center">👋 Hi, I'm Akash Sen</h1>
 
-🚀 Passionate about building full-stack applications and solving real-world problems with Java, Spring Boot, React, and ML.
+<p align="center">
+  🚀 Passionate about building full-stack and AI/ML applications, leveraging Java, Spring Boot, React, Machine Learning, and Deep Learning to solve real-world problems.
+</p>
 
-🛠️ Tech Stack:
+---
+
+### 🛠️ Tech Stack
+
 ![Java](https://img.shields.io/badge/Java-orange?logo=java)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-green?logo=spring)
 ![React](https://img.shields.io/badge/React-blue?logo=react)
 ![MySQL](https://img.shields.io/badge/MySQL-lightgrey?logo=mysql)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
 
-📌 Featured Projects:
-- 🔗 [Smart Task Tracker (Spring Boot + React)](https://github.com/As377507/task-tracker-website)
-- 🔗 [Binary Image Classifier (CNN)](https://github.com/As377507/Binary-Image-Classifier-using-CNN)
+---
 
-📫 Reach Me:
-- 🌐 [Portfolio](https://your-portfolio-link)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 akashsen@email.com
+### 📌 Featured Projects
 
+#### 🔹 [Smart Task Tracker (Spring Boot + React + JWT Auth)](https://github.com/As377507/task-tracker-website)
+
+A modern and responsive Task Management Web App that allows users to manage daily tasks with role-based access and priority-based tracking.
+
+**Key Features:**
+
+- ✅ Role-based Authentication (Admin/User) with JWT
+- ✅ CRUD operations for Tasks with priority and status
+- ✅ Estimated time and deadline fields
+- ✅ Responsive Material UI dashboard
+- ✅ REST API backend using Spring Boot + Hibernate + MySQL
+
+**📂 Repositories:**
+
+- 🔗 [Frontend Repo](https://github.com/As377507/task-tracker-frontend)
+- 🔗 [Backend Repo](https://github.com/As377507/task-tracker-backend)
+
+---
+
+#### 🔹 [Binary Image Classifier (CNN)](https://github.com/As377507/Binary-Image-Classifier-using-CNN)
+
+A deep learning project that classifies binary images using a Convolutional Neural Network (CNN) built with TensorFlow and Keras.
+
+- 📦 Python-based Jupyter Notebook
+- 🧠 Trained on custom datasets
+- 📈 Achieves high accuracy with minimal data
+
+---
+
+#### 🔹 [AI Content Structure Analyzer (Flask + NLP)](https://github.com/As377507/ai-content-structure-analyzer)
+
+Python-based AI tool that evaluates HTML/Markdown document structure, extracts key entities, and scores content for Google AI summarization readiness.
+
+**Highlights:**
+
+- 🔍 NLP-based entity extraction using SpaCy
+- 📊 Generates structural scores and visual reports
+- 🌐 RESTful API built with Flask
+- 📄 Supports Markdown and HTML input for blog/article analysis
+- 📈 Ideal for SEO and AI content optimization
+
+---
+
+### 🌟 Notable Achievement: SIH Grand Finale 2023
+
+This AI Content Analyzer was proudly developed by me and my team **Free Thinkers_2024** during the **Smart India Hackathon Grand Finale 2023**.
+
+We built a mental health self-identification platform powered by:
+
+- 🧠 AI Chatbot for early self-assessment
+- 🔒 Secure data handling
+- 📚 Personalized mental wellness resources
+
+🎯 This demonstrates our **real-world problem-solving**, **full-stack development** skills, and **commitment to social impact** — traits highly valued in any professional software development role.
+
+---
+
+### 💼 Portfolio & Contact
+
+- 🌐 [Portfolio](https://https://akash-sen-portfolio.vercel.app/) *(React + Vite + Tailwind CSS + EmailJS)*
+- 💼 [LinkedIn](https://linkedin.com/in/akash-sen-28834a30b)
+- 📧 [akashsen@email.com](mailto:asen05897@email.com)
+
+---
+
+<p align="center">
+  🔍 Always open to collaboration, innovative projects, and software engineering opportunities!
+</p>
