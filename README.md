@@ -89,7 +89,7 @@ We built a **Mental Health Self-Identification Platform** that empowers users to
 
 - 🌐 [Portfolio](https://akash-sen-portfolio.vercel.app/) *(React + Vite + Tailwind CSS + EmailJS)*
 - 💼 [LinkedIn](https://linkedin.com/in/akash-sen-28834a30b)
-- 📧 [akashsen@email.com](mailto:asen05897@email.com)
+- 📧 [asen05897@email.com](mailto:asen05897@email.com)
 
 ---
 
