@@ -64,17 +64,24 @@ Python-based AI tool that evaluates HTML/Markdown document structure, extracts k
 
 ---
 
-### 🌟 Notable Achievement: SIH Grand Finale 2023
+## 🌟 Notable Achievement: SIH Grand Finale 2023
 
-This AI Content Analyzer was proudly developed by me and my team **Free Thinkers_2024** during the **Smart India Hackathon Grand Finale 2023**.
+This **AI Content Analyzer** was proudly developed by me and my team **Free Thinkers_2024** during the **Smart India Hackathon Grand Finale 2023**.
 
-We built a mental health self-identification platform powered by:
+We built a **Mental Health Self-Identification Platform** that empowers users to assess their emotional well-being, enabling early intervention and promoting mental resilience.
 
-- 🧠 AI Chatbot for early self-assessment
-- 🔒 Secure data handling
-- 📚 Personalized mental wellness resources
+### 💡 Key Features:
 
-🎯 This demonstrates our **real-world problem-solving**, **full-stack development** skills, and **commitment to social impact** — traits highly valued in any professional software development role.
+- 🧠 **AI Chatbot** for personalized self-assessment using tools like **PHQ-9** & **GAD-7**
+- 🔐 **Robust data encryption** and complete **user privacy** — no human interaction involved
+- 📚 **Dynamic educational content** (articles, videos, games) tailored to user's **age** and **severity level**
+- ⚙️ **Automated scoring & interpretation** of mental health status
+- 👩‍⚕️ **Frontline health worker integration** for onboarding and user assistance
+
+🎯 This project showcases our **real-world problem-solving**, **AI/ML integration**, **full-stack development**, and **commitment to social impact** — qualities highly valued in any professional software engineering role.
+
+🔗 **GitHub Repository**: [Self-Identifying Mental Health](https://github.com/As377507/SelfIdentifying-MentalHealth)
+
 
 ---
 
