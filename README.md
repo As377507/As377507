@@ -50,7 +50,7 @@ A deep learning project that classifies binary images using a Convolutional Neur
 
 ---
 
-#### 🔹 [AI Content Structure Analyzer (Flask + NLP)](https://github.com/As377507/ai-content-structure-analyzer)
+#### 🔹 [AI Content Structure Analyzer (Flask + NLP)](https://github.com/As377507/serp-strategist-ai-summary-optimizer)
 
 Python-based AI tool that evaluates HTML/Markdown document structure, extracts key entities, and scores content for Google AI summarization readiness.
 
