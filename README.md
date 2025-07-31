@@ -27,10 +27,10 @@ A modern and responsive Task Management Web App that allows users to manage dail
 
 **Key Features:**
 
-- ✅ Role-based Authentication (Admin/User) with JWT
-- ✅ CRUD operations for Tasks with priority and status
-- ✅ Estimated time and deadline fields
-- ✅ Responsive Material UI dashboard
+- ✅ User Authentication with JWT (Login/Register)
+- ✅ CRUD Operations for Tasks (Create, Read, Update, Delete)
+- ✅ Task Fields: Title, Description, Priority, Status, Estimated Time, Deadline
+- ✅ Responsive Dashboard UI using Material UI + Tailwind CSS
 - ✅ REST API backend using Spring Boot + Hibernate + MySQL
 
 **📂 Repositories:**
