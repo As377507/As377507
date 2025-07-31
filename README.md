@@ -35,8 +35,8 @@ A modern and responsive Task Management Web App that allows users to manage dail
 
 **📂 Repositories:**
 
-- 🔗 [Frontend Repo](https://github.com/As377507/task-tracker-frontend)
-- 🔗 [Backend Repo](https://github.com/As377507/task-tracker-backend)
+- 🔗 [Frontend Repo](https://github.com/As377507/Frontend/task-tracker-frontend)
+- 🔗 [Backend Repo](https://github.com/As377507/Backend/task-tracker-backend)
 
 ---
 
