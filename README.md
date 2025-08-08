@@ -66,7 +66,7 @@ Python-based AI tool that evaluates HTML/Markdown document structure, extracts k
 
 ## 🌟 Notable Achievement: SIH Grand Finale 2023
 
-This **AI Content Analyzer** was proudly developed by me and my team **Free Thinkers_2024** during the **Smart India Hackathon Grand Finale 2023**.
+Our team **Free Thinkers_2024** selected for the **Smart India Hackathon Grand Finale 2023**.
 
 We built a **Mental Health Self-Identification Platform** that empowers users to assess their emotional well-being, enabling early intervention and promoting mental resilience.
 
