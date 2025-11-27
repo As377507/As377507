@@ -16,6 +16,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite)
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
 ![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
+![Power BI](https://img.shields.io/badge/Power%20BI-257EB0?logo=powerbi&logoColor=white)
 
 ---
 
