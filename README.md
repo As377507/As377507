@@ -65,6 +65,19 @@ Python-based AI tool that evaluates HTML/Markdown document structure, extracts k
 
 ---
 
+#### 📈 [Global Superstore Profitability and Performance Analysis Using PowerBI](https://github.com/As377507/Global-Superstore-Profitability-Analysis)
+
+A Power BI dashboard project analyzing the Global Superstore dataset to shift focus from high-level revenue to **detailed profitability analysis**, guiding strategic interventions in product and market performance.
+
+**Highlights:**
+
+* **💰 Profitability KPI:** Custom **DAX** measure for **Profit Margin** with conditional formatting for instant financial health alerts.
+* **❌ Loss Identification:** **Profit by Sub-Category** bar chart uses Red/Green coloring to instantly pinpoint specific loss-making products (e.g., 'Tables', 'Binders').
+* **✨ Professional Design:** Utilized minimalist aesthetic (white background, borderless visuals) for maximum readability and data focus.
+
+---
+
+
 ## 🌟 Notable Achievement: SIH Grand Finale 2023
 
 Our team **Free Thinkers_2024** selected for the **Smart India Hackathon Grand Finale 2023**.
