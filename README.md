@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Engineer & AI/ML Enthusiast | Building Scalable, Intelligent Systems 🚀</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/akash-sen" target="_blank">
+  <a href="https://www.linkedin.com/in/akash-sen-28834a30b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:asen05897@gmail.com">
